@@ -6,7 +6,7 @@ Interesting chat-gpt prompts
 
 > Five whys (or 5 whys) is an iterative interrogative technique used to explore the cause-and-effect relationships underlying a particular problem.The primary goal of the technique is to determine the root cause of a defect or problem by repeating the question "Why?" five times. The answer to the fifth why should reveal the root cause of the problem. [5 Whys on Wikipedia](https://en.wikipedia.org/wiki/Five_whys)
 
-I find this process very useful, but I have a very hard time doing it myself. This ChatGPT prompt has helped me finally successfully apply the process.
+I find this process very useful, but I have a very hard time doing it myself. Switching between the asker and the answerer is difficult. This ChatGPT prompt has helped me finally successfully apply the process.
 
 ### Prompt
 
